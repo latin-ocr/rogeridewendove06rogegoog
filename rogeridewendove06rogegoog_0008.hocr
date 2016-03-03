@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rogeridewendove06rogegoog_0008.png"; bbox 0 0 2858 4876; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 296 2037 1041 2122">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 296 2037 1041 2122">
+     <span class='ocr_line' id='line_1_1' title="bbox 296 2037 1041 2122; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 296 2037 525 2120; x_wconf 87' lang='lat' dir='ltr'>ROGERI</span> <span class='ocrx_word' id='word_1_2' title='bbox 569 2041 648 2120; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 690 2039 1041 2122; x_wconf 84' lang='lat' dir='ltr'>WENDOVER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 218 2296 1197 2381">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 218 2296 1197 2381">
+     <span class='ocr_line' id='line_1_2' title="bbox 218 2296 1197 2381; baseline 0.005 -5"><span class='ocrx_word' id='word_1_4' title='bbox 218 2296 507 2378; x_wconf 87' lang='lat' dir='ltr'><strong>FLORES</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 552 2298 1119 2381; x_wconf 85' lang='lat' dir='ltr'><strong>HISTORIARUM.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1193 2324 1197 2333; x_wconf 89' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1434 4876">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1434 4876">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1434 4876; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1434 4876; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
